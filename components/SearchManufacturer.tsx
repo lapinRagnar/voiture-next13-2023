@@ -89,12 +89,10 @@ const SearchManufacturer = ({ manufacturer, setManufacturer } : SearchManufactur
 
             </Combobox.Options>
 
-
-          </Transition>
-
-          
+          </Transition>          
         </div>
       </Combobox>
+      
     </div>
   )
 }
