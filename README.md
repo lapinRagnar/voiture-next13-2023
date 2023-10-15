@@ -67,3 +67,6 @@ git checkout 2-afficher-blog-par-id
 git merge main
 git push origin 1-premiere-etape-jsqau-fetch-data
 git push origin 2-afficher-blog-par-id
+
+git pull origin main
+git merge main
